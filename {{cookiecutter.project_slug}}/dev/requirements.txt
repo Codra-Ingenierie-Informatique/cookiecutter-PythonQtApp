@@ -1,0 +1,8 @@
+PyQt5
+PyQtWebEngine
+guidata
+pylint
+black
+pycodestyle
+pyinstaller
+twine
