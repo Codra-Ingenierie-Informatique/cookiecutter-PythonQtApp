@@ -12,7 +12,7 @@ def remove_file(filepath):
 
 def is_winpython_install():
     """Return True if the Python executable is in a WinPython directory."""
-    scripts = os.path.join(PYTHON_EXECUTABLE, os.pardir, "scripts")
+    scripts = os.path.join(os.path.dirname(PYTHON_EXECUTABLE), os.pardir, "scripts")
     return os.path.isfile(os.path.join(scripts, "env_for_icons.bat"))
 
 
