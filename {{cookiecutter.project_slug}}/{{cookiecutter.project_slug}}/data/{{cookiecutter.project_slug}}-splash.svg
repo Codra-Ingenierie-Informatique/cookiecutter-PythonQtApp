@@ -10,7 +10,7 @@
    width="10"
    height="10"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   inkscape:export-filename="24.png"
+   inkscape:export-filename="{{cookiecutter.project_slug}}.png"
    inkscape:export-xdpi="1933.9467"
    inkscape:export-ydpi="1933.9467"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"

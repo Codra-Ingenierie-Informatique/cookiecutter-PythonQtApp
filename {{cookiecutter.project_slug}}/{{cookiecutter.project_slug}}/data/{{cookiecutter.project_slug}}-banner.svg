@@ -11,8 +11,8 @@
    height="9.1999998"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    inkscape:export-filename="{{cookiecutter.project_slug}}-banner.png"
-   inkscape:export-xdpi="1189.8225"
-   inkscape:export-ydpi="1189.8225"
+   inkscape:export-xdpi="1088.3619"
+   inkscape:export-ydpi="1088.3619"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -42,8 +42,8 @@
      fit-margin-bottom="0"
      units="px"
      inkscape:zoom="42.022346"
-     inkscape:cx="13.95686"
-     inkscape:cy="6.3775593"
+     inkscape:cx="14.266219"
+     inkscape:cy="6.3775592"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -129,13 +129,13 @@
      transform="translate(1.156975,-1.3487508)" />
   <text
      xml:space="preserve"
-     style="font-size:4px;fill:#4d4d4d;stroke:#117e20;stroke-width:0.05;stroke-dasharray:none;stroke-opacity:1"
-     x="9.2190523"
-     y="5.5682268"
+     style="font-size:4.26667px;fill:#4d4d4d;stroke:#117e20;stroke-width:0.05;stroke-dasharray:none;stroke-opacity:1"
+     x="9.0762711"
+     y="5.8775859"
      id="text1285"><tspan
        sodipodi:role="line"
-       x="9.2190523"
-       y="5.5682268"
-       style="font-size:4px;fill:#4d4d4d;stroke:none;stroke-width:0.05;stroke-dasharray:none"
+       x="9.0762711"
+       y="5.8775859"
+       style="font-size:4.26667px;fill:#4d4d4d;stroke:none;stroke-width:0.05;stroke-dasharray:none"
        id="tspan402">AppTitle</tspan></text>
 </svg>
