@@ -53,7 +53,7 @@ class MainSection(conf.Section, metaclass=conf.SectionMeta):
 
 # Usage (example): Conf.console.enable.get(True)
 class Conf(conf.Configuration, metaclass=conf.ConfMeta):
-    """Class defining CodraFT configuration structure.
+    """Class defining application configuration structure.
     Each class attribute is a section (metaclass is automatically affecting
     section names in .INI file based on class attribute names)."""
 
