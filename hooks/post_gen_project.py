@@ -17,7 +17,9 @@ def is_winpython_install():
 
 
 def create_bat_launcher():
-    """Create a .bat launcher for Windows."""
+    """Create a .bat launcher for Windows.
+
+    Only works for a WinPython distribution without a virtual environment."""
     bat_file = os.path.join(PROJECT_DIRECTORY, "{{cookiecutter.project_slug}}.bat")
     with open(bat_file, "w") as bat:
         bat.write(
